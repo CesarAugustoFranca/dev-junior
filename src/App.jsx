@@ -28,7 +28,7 @@ function App() {
       {/* Perfil Profissional */}
       <section className="resume-section">
         <h2>
-          Objetivo / Resumo Profissional
+          Objetivo
           </h2>
         <p>
           Desenvolvedor Front-End em início de carreira, com base sólida teórica e prática em JavaScript (ES6+), HTML5, CSS3 e na biblioteca React. Desenvolvo projetos pessoais aplicando boas práticas de componenteização, versionamento de código com Git/GitHub e design responsivo. Dedicado, autodidata e motivado a solucionar problemas reais por meio do código, buscando integrar um tempo focado em inovação tecnológica.
